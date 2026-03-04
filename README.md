@@ -4,4 +4,8 @@ Lab 1 colab link: https://drive.google.com/file/d/17GHZ1X-BYhVmwUywBLLQLmYj3tT_N
 
 Lab 2 colab link: https://drive.google.com/drive/folders/1gcT2CwvYAyttNeUyte6VfSUJ6Vg4IRuo?usp=sharing 
 
+Quiz 2 colab link: https://drive.google.com/file/d/1UV9gTrAYq_wNpP2oU0LcNm28AoZL_wYv/view?usp=sharing
+
+Quiz 3 colab link: https://drive.google.com/file/d/1N2KS3CMywOWud0AcbaiNRg6xlSk0gEtq/view?usp=sharing
+
 Quiz 4 colab link: https://drive.google.com/file/d/1z3REp1eV7LIcSOUSs59tlX1VZEDMHP4N/view?usp=sharing
